@@ -1,4 +1,4 @@
-# Streaming platform for WFIS using Redpanda and Quix
+# Streaming platform using Redpanda and Quix
 
 ## Getting started
 ```bash
