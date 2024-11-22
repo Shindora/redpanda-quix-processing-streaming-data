@@ -1,0 +1,5 @@
+quixstreams<2.9
+python-dotenv
+pandas
+Faker
+structlog
